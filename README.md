@@ -1,6 +1,6 @@
 # project-nuxt-learning
 
-> My tiptop Nuxt.js project
+> My Nuxt.js@2 project for practic and learning
 
 ## Build Setup
 
